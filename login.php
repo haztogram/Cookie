@@ -1,5 +1,5 @@
 <?php
-$data=array('by'=>'tpbotz-teaM',
+$data=array('by'=>'optimus',
            'url'=>'https://www.haztorobo.xyz/getData.php',
             );
 
@@ -68,8 +68,8 @@ echo"\n\e[1;31m".$ikeh['message']."\n\e[37m";
 }else{
 
 echo"\n\e[1m\e[37mInstagram Generate Cookie Version".$ikeh['data']['sign_version']."";
-echo"\n\e[2;32mhttps://tpbotz-updated.tk";
-echo"\n\e[31mCode By Adarsh Tp\n";
+echo"\n\e[2;32m";
+echo"\n\e[31m\n";
 echo $likeh;
 echo"\n".$WH."? ".$OR."Insert Username : ";
 $mu=trim(fgets(STDIN));
